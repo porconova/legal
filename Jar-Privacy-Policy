@@ -1,0 +1,74 @@
+Jar — Privacy Policy
+
+Last updated: July 10, 2026
+
+Thank you for using Jar (the "App"). Your privacy is important. This Privacy Policy explains, in plain language, what data the App handles and what it does not.
+
+
+Developer
+
+Jar is developed by Dzianis Milasheuski, an individual developer based in Lithuania. For any questions about this policy or the App, contact: info@porconova.com
+
+
+Summary
+
+Jar runs entirely on your Mac. The developer operates no servers, has no account system, and the App makes no network connections at all. Your recently-used glyphs and your preferences stay on your device. Nothing is sent to the developer or to any third party.
+
+
+What the App Does Not Collect
+
+•  The App has no sign-up, no login, no user account.
+•  The App sends no data anywhere — it has no network connection and no analytics.
+•  The App sends no name, email, phone number, contacts, photos, or location data to anyone.
+•  The App does not contain advertising SDKs, social-network SDKs, or cross-app tracking SDKs.
+•  The App does not use cookies or advertising identifiers (IDFA).
+•  The App does not sell, share, rent, or disclose user data to third parties.
+
+
+Data That Stays on Your Device
+
+The following information is stored locally, inside the App's sandbox container, and is never transmitted:
+
+•  Recently-used glyphs (the symbols and emoji you have inserted).
+•  App preferences (global hotkey, theme, panel position and translucency, skin tone, category order and visibility, launch-at-login).
+
+You can clear your recents at any time in the App's Settings, and remove everything by deleting the App.
+
+
+How Insertion Works (Clipboard)
+
+To use a glyph in another app, Jar copies that single character to the system clipboard; you then paste it yourself with ⌘V (or Edit → Paste). This is a local operation on your Mac:
+
+•  Only the character you chose is written to the clipboard, and only at the moment you click it.
+•  Jar does not read, monitor, or collect your clipboard contents.
+•  Jar requires no special permissions (no Accessibility, no automation) and makes no network connection.
+
+
+Purchases
+
+Jar does not contain any in-app purchases or subscriptions.
+
+
+Children
+
+Jar is not directed at children under the age of 13 and does not knowingly collect any data from children. Because the App collects no data at all, none is collected from users of any age.
+
+
+Your Rights
+
+Because the App does not collect personal information — and makes no network connections — there is no developer-held data for you to access, correct, export, or delete. Data stored on your device can be removed by clearing recents in Settings or by deleting the App.
+
+
+Regulatory Notes
+
+The App is designed so that no personal information (name, email, IP address, advertising identifier, account ID) is collected by the developer or by any third party. No data leaves your device on the developer's behalf. Where Apple acts as a processor for App Store distribution, that activity is governed by Apple's own privacy policy.
+
+
+Changes to This Policy
+
+This policy may be updated from time to time. The date at the top of this document will reflect the most recent revision. Material changes will be highlighted in the App's release notes.
+
+
+Contact
+
+Questions or concerns: info@porconova.com

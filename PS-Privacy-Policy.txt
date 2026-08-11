@@ -1,0 +1,84 @@
+PicoServer — Privacy Policy
+Last updated: August 11, 2026
+
+The short version: PicoServer does not collect, transmit, or sell any of your
+data. Everything the app does happens on your device and on your own Wi-Fi.
+
+DEVELOPER
+PicoServer is developed by Dzianis Milasheuski, an individual developer based in
+Lithuania. Questions about this policy: info@porconova.com
+
+WHAT WE COLLECT
+Nothing. PicoServer has no analytics, no ads, no accounts, and no servers that
+receive your data. There is no sign-up and no login. We do not know who you are,
+which folders you share, or who connects to them.
+
+HOW THE APP WORKS
+- You pick a folder and the app serves it to devices on your local network over
+  HTTP or WebDAV. Your files are never uploaded to us or to anyone else; they
+  are read from the folder to answer a request from a device on your network.
+- The folder is not copied or indexed. The app stores a security-scoped
+  bookmark — a pointer that lets it reopen the folder you granted access to.
+- Photo previews are generated on your device with Apple's ImageIO framework and
+  cached in the app's own cache directory. No image leaves the device for this.
+- Server settings and the Activity log are stored on your device. The log is a
+  rolling, capped list of served requests — method, path, status, byte count,
+  and the local IP address of the device that connected. You can clear it.
+- Passwords you set for a server and the private key of the self-signed HTTPS
+  certificate are kept in the iOS Keychain with the "when unlocked, this device
+  only" protection class: they are not in iCloud Keychain and do not leave the
+  device.
+- To let guests reach the server by name, the app advertises a Bonjour service
+  on your local network. The advertisement carries the server name you chose and
+  the port number, and nothing else.
+
+WHAT LEAVES YOUR DEVICE
+Only what you serve and what you export yourself, and only where you send it.
+Nothing is sent automatically, and nothing is sent to us. Remember that a
+running server is an open door on that network: anyone who can reach your device
+and knows the address can open the shared folder unless you set a password, and
+if you enable write or delete access, guests can add or remove files. You choose
+the folder, the network, and the permissions.
+
+PERMISSIONS
+Local Network access is required so that other devices on your Wi-Fi can reach
+the server and find it by name. iOS asks for it the first time you start a
+server; the app shows its own explanation screen before that system prompt. The
+permission is used only to accept incoming connections and to advertise the
+server on the network you are on — it is not used to scan the network, and
+nothing about your network is recorded or transmitted. You can revoke it at any
+time in Settings → Privacy & Security → Local Network.
+
+PURCHASES
+PicoServer Pro is sold through Apple's In-App Purchase, as a subscription
+(monthly or yearly) or a one-time Lifetime purchase. Apple, not the developer,
+processes payment. We receive no personal or payment information. You can manage
+or cancel a subscription in Settings → [Your Name] → Subscriptions on your
+device.
+
+YOUR RIGHTS
+Because the app collects no personal information on the developer's side, there
+is no developer-held data for you to access, correct, export, or delete.
+- Data stored on your device can be removed by deleting the app, or item by item
+  inside it: servers can be deleted and the Activity log can be cleared.
+- Passwords and the HTTPS key held in the Keychain are removed with the app.
+- An active subscription can be cancelled in your Apple Account subscriptions.
+
+CHILDREN
+PicoServer is a file-sharing and developer utility. It is not directed at
+children under the age of 13 and does not knowingly collect any data from
+children.
+
+REGULATORY NOTES
+The app is designed so that no directly identifying personal information (name,
+email, IP address, advertising identifier, account ID) is collected by the
+developer or by any third party the developer uses. Where Apple acts as a
+processor for purchases, those activities are governed by Apple's own privacy
+policy. Any personal data that arises while you use the app — the guest IP
+addresses in the Activity log, or the contents of the folder you share — is
+processed on your device and under your control; if you use the app in a
+professional or organisational context, you may be the controller of that data
+under applicable law.
+
+CONTACT
+Questions or concerns: info@porconova.com

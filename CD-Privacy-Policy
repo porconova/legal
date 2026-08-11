@@ -1,0 +1,68 @@
+Cookies Detective — Privacy Policy
+Last updated: July 11, 2026
+
+The short version: Cookies Detective does not collect, transmit, or sell any of
+your data. Everything the app does happens on your device.
+
+DEVELOPER
+Cookies Detective is developed by Dzianis Milasheuski, an individual developer
+based in Lithuania. Questions about this policy: info@porconova.com
+
+WHAT WE COLLECT
+Nothing. Cookies Detective has no analytics, no ads, no accounts, and no servers
+that receive your data. There is no sign-up and no login. We do not know who you
+are, which sites you visit, or what cookies you have.
+
+HOW THE APP WORKS
+- The Safari extension reads and edits cookies for the site you are viewing,
+  using Safari's native cookie API, only while you have the popup open.
+- Cookie classification (which company set a cookie, and why) is done entirely
+  on your device against a database that ships inside the app. No lookup is ever
+  sent to a server — the app never asks anyone "does this user have cookie X?".
+- Checkpoints and snapshots you save are stored on your device. If you enable
+  iCloud, they sync
+  through your own private iCloud account (Apple's Key-Value Storage) to your
+  other devices signed in to the same Apple ID; we cannot see them.
+- Exported cookie files and audit reports are created on your device and shared
+  only where you choose to send them.
+
+WHAT LEAVES YOUR DEVICE
+Only what you explicitly export or share, to the destination you pick. Nothing
+is sent automatically, and nothing is sent to us.
+
+PERMISSIONS
+The "All Websites" permission is required so the extension can read cookies on
+the sites you open. Safari describes this as the ability to "see your browsing
+history": technically, the extension can read the address of the page you are
+viewing when you open the popup. It uses that address solely to show and analyze
+that site's cookies, on your device, in the moment — it does not record, store,
+or transmit your browsing history anywhere.
+
+PURCHASES
+Cookies Detective Pro is sold through Apple's In-App Purchase. Apple, not the
+developer, processes payment. We receive no personal or payment information. You
+can manage or cancel a subscription in Settings → [Your Name] → Subscriptions on
+your device.
+
+YOUR RIGHTS
+Because the app collects no personal information on the developer's side, there
+is no developer-held data for you to access, correct, export, or delete.
+- Data stored on your device can be removed by deleting the app, or by deleting
+  individual items inside it.
+- Data stored in your iCloud account can be removed by signing the app out of
+  iCloud or by deleting it from your iCloud storage in iOS Settings.
+- An active subscription can be cancelled in your Apple Account subscriptions.
+
+CHILDREN
+Cookies Detective is a developer/privacy utility. It is not directed at children
+under the age of 13 and does not knowingly collect any data from children.
+
+REGULATORY NOTES
+The app is designed so that no directly identifying personal information (name,
+email, IP address, advertising identifier, account ID) is collected by the
+developer or by any third party the developer uses. Where Apple acts as a
+processor for purchases and iCloud, those activities are governed by Apple's own
+privacy policy.
+
+CONTACT
+Questions or concerns: info@porconova.com
