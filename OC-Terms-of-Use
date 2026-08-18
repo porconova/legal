@@ -1,0 +1,169 @@
+Octant — Terms of Use
+Last updated: August 18, 2026
+
+These Terms of Use ("Terms") govern your use of the Octant iPhone app (the
+"App"), provided by Dzianis Milasheuski, an individual developer based in
+Lithuania ("we", "us"). By downloading, installing, or using the App you agree
+to these Terms.
+
+1. LICENSE
+We grant you a personal, non-exclusive, non-transferable, revocable license to
+use the App on Apple devices you own or control, in accordance with Apple's
+standard End User License Agreement and these Terms. The App is licensed, not
+sold, to you.
+
+2. WHAT THE APP IS
+Octant is a GNSS instrument. It shows what your iPhone's own receiver and
+sensors report about where you are — coordinates in several formats, the
+accuracy of the fix, three altitude references, heading, level, speed and course
+— and it computes where the navigation satellites are above you from published
+orbital data. It is not a map, it holds no map data, and it operates no hosted
+service. Everything it shows is produced on your device.
+
+3. ACCURACY, AND WHAT THE APP CANNOT KNOW
+The App reports the position, accuracy figure and timestamp that iOS provides,
+and nothing beyond that.
+- iOS exposes no per-satellite signal levels, no list of satellites actually
+  being tracked, and no raw measurements to any third-party app. The satellites
+  shown in the sky view are therefore computed positions, labelled as such, not
+  a reading of what your receiver hears.
+- Accuracy is an estimate produced by the operating system. Sky obstruction,
+  buildings, weather and interference all affect a real fix.
+- The three altitudes disagree by design: height above mean sea level, height
+  above the WGS-84 ellipsoid, and a barometric value that depends on air
+  pressure and on how recently it was calibrated.
+- Compass heading depends on the magnetometer and is affected by nearby metal,
+  magnets and cases.
+The App is an instrument for observation and record-keeping. It is not certified
+for surveying, aviation, marine navigation, or any other safety-of-life use, and
+must not be relied upon as a sole means of navigation where an incorrect
+position could cause injury, loss, or damage. Carry an independent means of
+navigation when the consequences warrant one.
+
+4. ACCEPTABLE USE
+You agree not to:
+- use the App to track another person without their knowledge and consent, or in
+  any way that violates the privacy or other rights of others;
+- rely on the App where certified equipment is required by law or by the
+  operator of an activity;
+- reverse-engineer, decompile, or attempt to extract the source code of the App,
+  except to the extent applicable law expressly permits;
+- circumvent or attempt to circumvent any Pro entitlement check, payment, or
+  licensing mechanism;
+- use the App in any way that violates applicable law or infringes the rights of
+  others.
+Coordinates you record and export are yours to handle: a saved point is a
+precise record of a real place, and sharing a GPX or CSV file shares that place
+with whoever receives it.
+
+5. SUBSCRIPTIONS AND ONE-TIME PURCHASE ("OCTANT PRO")
+The App is free to download and includes a core set of features: live position,
+accuracy and its recent history, all three altitudes, compass, level, speed and
+course, the full sky chart, the AR sky view, and two saved points. Additional
+features (collectively, "Pro features") — precision averaging, unlimited saved
+points, GPX and CSV export and import, Lock Screen and Home Screen widgets, and
+UTM & MGRS grid references — are unlocked by either an auto-renewing
+subscription (monthly or yearly) or a one-time Lifetime purchase.
+- Trial. Subscription plans may include an introductory free trial, the duration
+  and conditions of which are shown on the purchase screen and on the App Store
+  product page.
+- Billing. Payment is charged to your Apple Account when you confirm the
+  purchase. Subscriptions renew automatically at the end of each billing period
+  at the then-current price unless cancelled at least 24 hours before the end of
+  the current period.
+- Managing or cancelling. You can manage or cancel a subscription at any time in
+  Settings → [Your Name] → Subscriptions on your device. Cancellation takes
+  effect at the end of the current billing period; you keep Pro features until
+  that date.
+- Lifetime purchase. A one-time, non-recurring transaction that grants Pro
+  features for as long as the App is offered on the App Store and is associated
+  with your Apple Account.
+- Restoring purchases. Previously purchased subscriptions or Lifetime
+  entitlements can be restored on a new device by signing in with the same Apple
+  Account and using Restore Purchases in the App.
+- Refunds. All payments are processed by Apple. Refund requests are handled by
+  Apple under its policies; you can request a refund at reportaproblem.apple.com.
+- Price changes. Subscription prices may change. If a price increase requires
+  your consent under Apple's rules, your subscription will not renew at the new
+  price until you agree.
+
+6. YOUR DATA AND YOUR POINTS
+Saved points, settings and everything else the App records live on your device.
+We hold no copy and cannot see, retrieve, or restore them. Deleting the App
+deletes them. Export your points as GPX or CSV before deleting the App, or
+before changing devices, if you want to keep them.
+
+7. NO WARRANTY
+The App is provided "as is" and "as available", without warranty of any kind.
+Satellite geometry is calculated from published orbital parameters and is
+approximate; positions, altitudes and headings carry the errors described in
+Section 3; the barometric altitude depends on ambient pressure and drifts with
+the weather. To the maximum extent permitted by applicable law, we disclaim all
+implied warranties, including merchantability, fitness for a particular purpose,
+and non-infringement.
+
+8. LIMITATION OF LIABILITY
+To the maximum extent permitted by applicable law, the developer shall not be
+liable for any indirect, incidental, special, or consequential damages, or for
+any loss of profits, data, or access — including loss of saved points or any
+consequence of an inaccurate position — arising from your use of, or inability
+to use, the App. The developer's total liability, regardless of the form of
+action, shall not exceed the amount you paid (if any) for the App or the
+relevant in-app purchase in the twelve months preceding the event giving rise to
+the liability. Nothing in these Terms limits any liability that cannot be
+limited under applicable law.
+
+9. INTELLECTUAL PROPERTY
+The App, including its name, brand, design, source code, icons, and all other
+materials provided by the developer, is owned by the developer and protected by
+copyright and other intellectual-property laws. No rights are granted to you
+other than the limited license described in Section 1. The points you record and
+the files you export stay yours: we claim no ownership of them and hold no copy.
+
+10. THIRD-PARTY COMPONENTS
+The App is built on Apple frameworks — Core Location, Core Motion, AVFoundation,
+StoreKit, WidgetKit and SwiftUI — and use of those features is subject to
+Apple's terms. Orbital parameters used for the sky view come from published
+public sources. The App embeds the IBM Plex Mono typeface under the SIL Open
+Font License.
+
+11. PRIVACY
+Your use of the App is also governed by the Octant Privacy Policy, which is
+incorporated into these Terms by reference.
+
+12. UPDATES AND AVAILABILITY
+We may update the App from time to time to add features, fix bugs, or comply
+with platform requirements, and may discontinue features or the App itself with
+reasonable notice where practicable. We do not guarantee uninterrupted
+availability of the App or of any feature that depends on satellite reception or
+on device sensors. We may also revise these Terms; the date at the top reflects
+the most recent revision, and continued use after a revision constitutes
+acceptance.
+
+13. TERMINATION
+These Terms remain in effect for as long as you use the App. We may suspend or
+terminate your right to use the App if you materially breach these Terms. You
+can terminate at any time by deleting the App from your devices. Termination
+does not by itself entitle you to a refund of any amount paid through the App
+Store; refund requests must be addressed to Apple under Section 5.
+
+14. GOVERNING LAW
+These Terms are governed by the laws of the Republic of Lithuania, without
+regard to its conflict-of-laws principles, and, to the extent applicable, by the
+mandatory consumer-protection laws of your country of residence. Any dispute
+arising out of or in connection with these Terms shall be brought before the
+competent courts of Lithuania, except where mandatory law assigns exclusive
+jurisdiction to the courts of your country of residence.
+
+15. APPLE-SPECIFIC TERMS
+You acknowledge that these Terms are concluded between you and the developer
+only, and not with Apple. Apple is not responsible for the App or its content
+and has no obligation to provide maintenance or support for the App. In the
+event the App fails to conform to any applicable warranty, you may notify Apple,
+and Apple may refund the purchase price; to the maximum extent permitted by law,
+Apple has no other warranty obligation regarding the App. Apple is a third-party
+beneficiary of these Terms and, upon your acceptance, will have the right to
+enforce them against you.
+
+CONTACT
+Questions about these Terms: info@porconova.com
