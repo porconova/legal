@@ -1,0 +1,103 @@
+Octant — Privacy Policy
+Last updated: August 18, 2026
+
+The short version: Octant does not collect, transmit, or sell any of your data.
+Your position is read by the app, shown to you, and stays on your device.
+
+DEVELOPER
+Octant is developed by Dzianis Milasheuski, an individual developer based in
+Lithuania. Questions about this policy: info@porconova.com
+
+WHAT WE COLLECT
+Nothing. Octant has no analytics, no ads, no accounts, and no servers that
+receive your data. There is no sign-up and no login. The app makes no network
+requests of its own: the only network activity is Apple's own In-App Purchase
+system when you buy or restore Pro. We do not know who you are, where you are,
+or which points you have saved.
+
+HOW THE APP WORKS
+- Your position, accuracy, altitude, speed and course come from the device's own
+  GNSS receiver through Apple's Core Location framework. They are displayed and
+  held in memory while the app runs. Nothing is uploaded.
+- Compass heading, the level, air pressure and barometric altitude come from the
+  device's magnetometer, motion sensors and barometer through Apple's Core
+  Motion framework. Same rule: shown, not sent.
+- Saved points are written to a file inside the app's own container on your
+  device, as ordinary JSON. They are not synced to iCloud and not copied
+  anywhere else.
+- The sky chart is computed, not fetched. Satellite positions are calculated on
+  the device from published orbital parameters that ship inside the app, using
+  your coordinate and the current time. No almanac is downloaded and no request
+  is made to obtain it.
+- The AR sky view shows a live camera preview with the computed satellite
+  positions drawn over it. The image is displayed on screen only: no frame is
+  recorded, saved, analysed, or transmitted, and the app has no photo library
+  access at all.
+- Settings — units, coordinate format, averaging preferences — are stored in the
+  app's own preferences on the device.
+- If you add a Lock Screen or Home Screen widget, the app writes your latest
+  fix (coordinate, accuracy, altitude, timestamp) into a shared container that
+  only Octant and its own widget can read (App Group group.com.pn.gps). It stays
+  on the device, is overwritten roughly twice a minute while the app is open,
+  and is removed with the app.
+
+WHAT LEAVES YOUR DEVICE
+Only what you export yourself, and only where you send it. Coordinates copied to
+the clipboard, a coordinate shared through the share sheet, and GPX or CSV files
+exported from your saved points go exactly where you choose to put them — a
+message, a mail, another app, a file. Nothing is sent automatically, and nothing
+is sent to us.
+
+PERMISSIONS
+- Location (While Using the App). Required: without it the app has no position,
+  no accuracy figure, no altitude, and nothing to return to. Octant never
+  requests Always or background location, and does not track you when it is not
+  open. The app shows its own explanation screen before the system prompt.
+  Revoke it any time in Settings → Privacy & Security → Location Services.
+- Motion & Fitness. Optional. It drives the compass, the level and the
+  barometric altitude. Everything else works without it; the app says so in
+  place rather than blocking you.
+- Camera. Optional, and asked for only when you open the AR sky view. Used for
+  the live preview behind the satellite overlay and for nothing else.
+
+PURCHASES
+Octant Pro is sold through Apple's In-App Purchase, as a subscription (monthly
+or yearly) or a one-time Lifetime purchase. Apple, not the developer, processes
+payment. We receive no personal or payment information — only whether this
+device holds a valid entitlement. You can manage or cancel a subscription in
+Settings → [Your Name] → Subscriptions on your device.
+
+YOUR RIGHTS
+Because the app collects no personal information on the developer's side, there
+is no developer-held data for you to access, correct, export, or delete.
+- Data stored on your device can be removed by deleting the app, or item by item
+  inside it: saved points can be deleted individually or all at once.
+- Your own saved points can be exported at any time as GPX or CSV, which is a
+  complete, portable copy of everything the app holds about your locations.
+- An active subscription can be cancelled in your Apple Account subscriptions.
+
+CHILDREN
+Octant is a navigation and measurement instrument. It is not directed at
+children under the age of 13 and does not knowingly collect any data from
+children.
+
+ACCURACY AND SAFETY
+Octant reports what the device's receiver reports, including its own margin of
+error, and computes satellite geometry from public orbital data. It is an
+instrument, not a safety-of-life system: do not rely on it as your only means of
+navigation where a wrong position could cause harm. The app draws no signal
+bars, because iOS exposes no per-satellite measurements to any app; anything
+that claims otherwise is estimating.
+
+REGULATORY NOTES
+The app is designed so that no directly identifying personal information (name,
+email, IP address, advertising identifier, account ID) is collected by the
+developer or by any third party the developer uses. Location data is personal
+data, and it is processed entirely on your device, under your control, and is
+never transmitted to the developer. Where Apple acts as a processor for
+purchases, those activities are governed by Apple's own privacy policy. If you
+use the app in a professional or organisational context, you may be the
+controller of the location data you record with it under applicable law.
+
+CONTACT
+Questions or concerns: info@porconova.com
