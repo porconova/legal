@@ -1,0 +1,128 @@
+Memoria — Privacy Policy
+Last updated: August 27, 2026
+
+The short version: Memoria does not collect, transmit, or sell any of your data.
+Everything you keep stays on your device, and — only if you turn it on — in your
+own private iCloud. Nothing is ever sent to the developer.
+
+DEVELOPER
+Memoria is developed by Dzianis Milasheuski, an individual developer based in
+Lithuania. Questions about this policy: info@porconova.com
+
+WHAT I COLLECT
+Nothing. Memoria has no analytics, no advertising, no accounts, no feed, and no
+servers that receive your data. There is no sign-up and no login. There are no
+third-party SDKs and no trackers in the app. I do not know who you are, whom you
+are remembering, or that you use the app at all.
+
+The one exception is not mine to control and never contains your content: if you
+have chosen in iOS Settings to share analytics and crash reports with app
+developers, Apple may show me aggregated, anonymised statistics — how often the
+app crashed, on which iOS versions. This comes from Apple, in aggregate, and
+cannot be traced back to you or to anything you have kept. You can turn it off in
+Settings › Privacy & Security › Analytics & Improvements.
+
+WHAT THE APP HOLDS
+Everything you put into Memoria is content you create: names, dates, written
+memories, photographs, films, voice recordings, and the candles you light. It is
+stored inside the app's private container on your device. Photographs, films and
+recordings are kept as files in that container; the rest is kept in a local
+database. None of it is indexed, counted, analysed, or shared.
+
+Small previews of photographs and films are generated on your device with
+Apple's own imaging frameworks and kept in the app's private cache. No image
+leaves the device for this. The app stores no passwords and no credentials of
+any kind — nothing in the Keychain, nothing anywhere else. When you switch on
+Face ID, the check is performed by iOS and the app is told only whether it
+passed.
+
+PRIVATE iCLOUD SYNC (OPTIONAL, OFF BY DEFAULT)
+If you turn on "Private iCloud sync" in Settings, Memoria stores a copy of your
+people, days, words and media files in the PRIVATE database of your own iCloud
+account, so your other devices signed in to the same Apple Account can show the
+same place.
+- The data goes only to your iCloud. It does not pass through any server of mine,
+  and I have no access to it.
+- Apple stores it under your Apple Account, governed by Apple's privacy policy.
+- Turning sync off stops the copying; everything already on the device stays on
+  the device.
+- Settings › "Erase the iCloud copy" removes Memoria's records and files from
+  your iCloud without touching anything on this device.
+Sync also uses Apple's silent push notifications to learn that another device has
+changed something. These carry no content of yours; they only wake the app.
+
+PERMISSIONS THE APP MAY ASK FOR
+- Photos — only to let you pick a photograph or a film to keep. Memoria reads
+  what you pick, and nothing else in your library.
+- Camera — only to photograph or film something at the moment you ask for it.
+- Microphone — only to record a voice memory while you hold the recorder open.
+- Face ID, Touch ID or your device passcode — to keep the app closed to anyone
+  but you. Authentication happens inside iOS; the app receives only "yes" or
+  "no" and never sees your biometric data or your passcode.
+- Notifications — only for reminders you switch on yourself, for the days you
+  have chosen. They are scheduled and delivered locally by your device. Memoria
+  has no way to send you anything else, and no server that could.
+
+WHAT LEAVES YOUR DEVICE
+Only what you explicitly export or share, to the destination you pick. "Save a
+copy of everything" produces a single file on your device which you may send
+wherever you choose; where it goes afterwards is up to you. Nothing is uploaded
+automatically, and nothing is ever sent to me.
+
+That file is not encrypted and it holds everything — the names, the words, the
+photographs, the films and the voices. Treat it exactly as you would treat the
+originals: anyone who opens it sees all of it.
+
+PURCHASES
+Memoria Pro is sold through Apple's In-App Purchase. Apple, not the developer,
+processes payment. I receive no personal or payment information. You can manage
+or cancel a subscription in Settings › [Your Name] › Subscriptions on your
+device.
+
+YOUR RIGHTS
+Because the app collects no personal information on the developer's side, there
+is no developer-held data for you to access, correct, export, or delete.
+- Anything kept in the app can be removed inside it, one item at a time, one
+  person at a time, or all at once with Settings › "Delete everything".
+- Everything can be exported at any time with Settings › "Save a copy of
+  everything", in a format that can be opened again by the app.
+- Data in your iCloud can be removed with Settings › "Erase the iCloud copy", by
+  signing out of iCloud, or from your iCloud storage in iOS Settings.
+- Deleting the app removes the on-device copy.
+- An active subscription can be cancelled in your Apple Account subscriptions.
+
+INFORMATION ABOUT OTHER PEOPLE
+Memoria is a place to remember someone who has died, so what you keep will often
+concern another person. That information is never transmitted to the developer or
+to any third party. It lives on your device and, at your choice, in your own
+iCloud, and it is yours to remove at any time.
+
+CHILDREN
+Memoria is not directed at children under the age of 13 and does not knowingly
+collect any data from children.
+
+REGULATORY NOTES
+The app is designed so that no directly identifying personal information (name,
+email, IP address, advertising identifier, account ID) is collected by the
+developer or by any third party the developer uses. There are no third-party
+SDKs, no trackers, and no data brokers. Where Apple acts as a processor for
+purchases and for iCloud, those activities are governed by Apple's own privacy
+policy. Because no personal data is collected or processed by the developer,
+there is no data controller obligation to transfer data internationally, and no
+data retention period to declare on the developer's side.
+
+What you keep in Memoria will usually be personal data about another person —
+someone who has died, and often other people in the photographs. It is created,
+stored and erased entirely by you, on your own device and in your own iCloud;
+the developer is neither its controller nor its processor and cannot reach it.
+Keeping the memory of someone close is a purely personal and household activity,
+which is outside the scope of the GDPR. If you were ever to use the app for
+something other than that — in a professional or organisational context — you,
+and not the developer, would be the controller of that data.
+
+CHANGES TO THIS POLICY
+If this policy changes, the updated version will be published at this address
+with a new date at the top.
+
+CONTACT
+Questions or concerns: info@porconova.com
