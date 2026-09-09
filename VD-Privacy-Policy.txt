@@ -1,0 +1,102 @@
+Vedute — Privacy Policy
+Last updated: September 9, 2026
+
+The short version: Vedute does not collect, transmit, or sell any of your
+data. The whole corpus of Piranesi's plates ships inside the app; your notes,
+collections and readings live on your iPad and, if you choose, in your own
+iCloud. We never see them.
+
+DEVELOPER
+Vedute is developed by Dzianis Milasheuski, an individual developer based in
+Lithuania. Questions about this policy: info@porconova.com
+
+WHAT WE COLLECT
+Nothing. Vedute has no analytics, no ads, no accounts, and no servers that
+receive your data. There is no sign-up and no login. The app makes no network
+requests to the developer. The only network activity is Apple's own systems,
+described below, and links you open yourself.
+
+HOW THE APP WORKS
+- The catalogue — 1,438 works, 1,039 of them with a full-resolution scan, with
+  titles in 21 languages, places, dates and provenance — is bundled with the
+  app. Browsing, searching, zooming and reading plates happens entirely on your
+  device and works with no connection at all.
+- Your own work — collections, notes, annotations and measurements on a plate
+  ("readings"), and saved comparisons — is stored in the app's database on your
+  device.
+- iCloud sync. If you are signed in to iCloud on your iPad, the app keeps that
+  same work in the private area of your iCloud account (container
+  iCloud.com.pn.vedute) so it appears on your other devices. This is Apple's
+  CloudKit private database: the data is encrypted in transit and at rest, is
+  tied to your Apple Account, and the developer has no access to it, cannot
+  read it and cannot restore it. Sync is governed by Apple's iCloud terms and
+  privacy policy. Turn iCloud Drive off for Vedute in Settings, or sign out of
+  iCloud, and the app keeps working with a local copy only.
+- Settings — title language, measurement units, viewer preferences, whether
+  you have seen the introduction — are stored in the app's own preferences on
+  the device.
+- Map of Rome. The map screen uses Apple Maps (MapKit). When you open it, your
+  device requests map tiles from Apple, under Apple's privacy policy. The app
+  does not request your location and has no location permission.
+- Museum pages. A plate's provenance lists the collections that hold the
+  original and links to their pages (The Metropolitan Museum of Art, the
+  National Gallery of Art, the Art Institute of Chicago, the Cleveland Museum
+  of Art, Wikimedia Commons). A link opens only when you tap it, in your
+  browser, under that site's own privacy policy.
+
+WHAT LEAVES YOUR DEVICE
+Only what you export yourself, and only where you send it. A plate shared
+through the share sheet, an annotated PNG, a PDF contact sheet, a citation
+copied to the clipboard, or a reading exported as a .vedute file goes exactly
+where you choose to put it — a message, a mail, another app, a file. Nothing
+is sent automatically, and nothing is sent to us.
+
+PERMISSIONS
+Vedute asks for no system permissions. It does not access your location,
+camera, microphone, contacts or photo library. Exported images are handed to
+the system share sheet, which lets you decide where they go.
+
+PURCHASES
+Vedute Pro is sold through Apple's In-App Purchase, as an auto-renewing
+subscription (monthly or yearly) or a one-time Lifetime purchase. Apple, not
+the developer, processes payment. We receive no personal or payment
+information — only whether this device holds a valid entitlement. You can
+manage or cancel a subscription in Settings → [Your Name] → Subscriptions on
+your device.
+
+YOUR RIGHTS
+Because the app collects no personal information on the developer's side,
+there is no developer-held data for you to access, correct, export, or
+delete.
+- Data stored on your device can be removed by deleting the app, or item by
+  item inside it: notes, collections, readings and comparisons can each be
+  deleted individually.
+- Data kept in your iCloud is under your control: delete it from inside the
+  app, or remove the app's data in Settings → [Your Name] → iCloud → Manage
+  Storage.
+- Your readings can be exported at any time as .vedute files, and your plates
+  and comparisons as images and PDFs, which together are a portable copy of
+  everything the app holds for you.
+- An active subscription can be cancelled in your Apple Account subscriptions.
+
+CHILDREN
+Vedute is a reference and study instrument for an eighteenth-century body of
+prints. It is not directed at children under the age of 13 and does not
+knowingly collect any data from children.
+
+THE PLATES
+The images in the app are reproductions of works by Giovanni Battista Piranesi
+(1720–1778) that are in the public domain, published by the holding museums
+under open-access terms. They contain no information about you.
+
+REGULATORY NOTES
+The app is designed so that no directly identifying personal information
+(name, email, IP address, advertising identifier, account ID) is collected by
+the developer or by any third party the developer uses. Where Apple acts as a
+processor — for purchases, for iCloud sync, for map tiles — those activities
+are governed by Apple's own privacy policy. Your notes and readings are your
+own content; they are processed on your device and in your own iCloud
+account, and are never transmitted to the developer.
+
+CONTACT
+Questions or concerns: info@porconova.com
