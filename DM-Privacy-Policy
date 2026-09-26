@@ -1,0 +1,76 @@
+Device Monitor — Privacy Policy
+Last updated: September 24, 2026
+
+The short version: Device Monitor does not collect, transmit, or sell any of
+your data. Every reading, test result and setting stays on your device.
+
+DEVELOPER
+Device Monitor is developed by Dzianis Milasheuski, an individual developer
+based in Lithuania. Questions about this policy: info@porconova.com
+
+WHAT I COLLECT
+Nothing. Device Monitor has no analytics, no ads, no accounts, and no servers
+that receive your data. There is no sign-up and no login. I do not know who you
+are, which device you use, or what it is doing.
+
+HOW THE APP WORKS
+- Live readings (CPU load, memory, storage, network throughput, battery level
+  and charging state, thermal state, uptime) come from the public system APIs
+  of iOS, iPadOS and macOS and are shown on your screen in the moment. They are
+  not sent anywhere.
+- The specification sheet for your model (chip, cores, display, release year
+  and similar values) comes from a table of Apple models that ships inside the
+  app. The app may download a newer copy of that table from a public file that
+  the developer publishes; this request carries no information about you or
+  your device beyond a standard web request, and the file is the same for
+  everyone.
+- Hardware tests (screen, touch, sensors, haptics, speakers and microphone)
+  run entirely on your device. The microphone is used only during the speakers
+  & microphone test: a short recording is kept in memory so you can play it
+  back, and it is discarded when the test ends. Nothing is saved or uploaded.
+- Test results, the history used for charts and widgets, and your settings are
+  stored on your device in the app's own container, which the app's widgets
+  can also read. Nothing is synced to the developer.
+- A test report you choose to share is created on your device and goes only
+  where you send it.
+
+WHAT LEAVES YOUR DEVICE
+Only what you explicitly share (a specification sheet or a test report), to the
+destination you pick. Nothing is sent automatically, and nothing is sent to me.
+
+PERMISSIONS
+- Microphone: used only by the speakers & microphone test, only while the test
+  is open. The app never records outside that test.
+- Motion: used only by the sensors test to show accelerometer, gyroscope and
+  compass readings while the test is open.
+- Notifications (optional): if you turn on alerts, the app schedules local
+  notifications on your device when a threshold you chose is reached. No
+  notification server is involved.
+- Live Activities and widgets read the same on-device readings as the app.
+
+PURCHASES
+Device Monitor Pro is sold through Apple's In-App Purchase. Apple, not the
+developer, processes payment. I receive no personal or payment information.
+You can manage or cancel a subscription in Settings → [Your Name] →
+Subscriptions on your device.
+
+YOUR RIGHTS
+Because the app collects no personal information on the developer's side,
+there is no developer-held data for you to access, correct, export, or delete.
+- Data stored on your device can be removed by deleting the app, or by using
+  "Clear results" inside it for test results.
+- An active subscription can be cancelled in your Apple Account subscriptions.
+
+CHILDREN
+Device Monitor is a hardware utility. It is not directed at children under the
+age of 13 and does not knowingly collect any data from children.
+
+REGULATORY NOTES
+The app is designed so that no directly identifying personal information (name,
+email, IP address, advertising identifier, account ID) is collected by the
+developer or by any third party the developer uses. Where Apple acts as a
+processor for purchases, those activities are governed by Apple's own privacy
+policy.
+
+CONTACT
+Questions or concerns: info@porconova.com
