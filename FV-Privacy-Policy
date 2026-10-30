@@ -1,0 +1,79 @@
+Five: Watch Puzzle Games — Privacy Policy
+Last updated: October 29, 2026
+
+The short version: Five does not collect, transmit, or sell any of your data.
+The games run entirely on your Apple Watch.
+
+DEVELOPER
+Five is developed by Dzianis Milasheuski, an individual developer based in
+Lithuania. Questions about this policy: info@porconova.com
+
+WHAT WE COLLECT
+Nothing. Five has no analytics, no ads, no tracking, no accounts, and no
+servers that receive your data. There is no sign-up and no login. We do not
+know who you are, which games you play, or how you play them.
+
+HOW THE APP WORKS
+- Puzzles are generated on the watch itself from a puzzle number and a
+  difficulty. Nothing is downloaded to create them and nothing is uploaded.
+- To let you continue where you left off, the app stores on the watch, in its
+  own private storage: the current board of each game (including Undo steps),
+  the number of puzzles you have solved per difficulty, your 2048 best score
+  and highest tile, and which game you chose as your free game.
+- It also stores a few settings: whether haptics are on, the game you played
+  last (for the Resume card), whether you have seen the welcome screens, and
+  whether Full Version is unlocked as last confirmed by the App Store, so that
+  games you own do not appear locked for a moment at launch.
+- These files and settings never leave the watch through the app. Like other
+  app data, they may be included in the backup of your Apple Watch that Apple
+  keeps on your paired iPhone; that backup is handled by Apple, not by us.
+- The watch-face complication only opens the app. It shows a fixed symbol and
+  reads none of your data.
+- The app does not use the network for gameplay, and it does not use the
+  camera, the microphone, your location, your health data, your contacts, or
+  your photos. It does not read any device or advertising identifier.
+
+WHAT LEAVES YOUR DEVICE
+Nothing is sent to us, ever. The only communication the app starts is with
+Apple's App Store, to show the price of Full Version, to make a purchase you
+confirm, and to check or restore that purchase (see PURCHASES).
+
+PURCHASES
+One game of your choice is free forever. Full Version, which unlocks all five
+games, is a one-time, non-recurring In-App Purchase sold through Apple's App
+Store. Apple, not the developer, processes payment and handles your Apple
+Account. We receive no personal or payment information — only whether this
+Apple Account holds a valid Full Version entitlement, which the app checks with
+Apple on the watch using StoreKit. Restore Purchases asks Apple to sync your
+purchases; Apple may ask you to sign in. Family Sharing is supported: if a
+family organiser shares Full Version, Apple tells the app that the entitlement
+is valid, and nothing about your family group is shared with us.
+
+YOUR RIGHTS
+Because the app collects no personal information on the developer's side,
+there is no developer-held data for you to access, correct, export, or delete.
+- Data stored on the watch can be removed by deleting the app, or inside it:
+  Settings → Reset Progress clears every board, solved count and record.
+  Your free-game choice stays, because it is part of what you are entitled to.
+- No data about you is held anywhere else.
+
+CHILDREN
+Five is a set of logic puzzles suitable for all ages. It collects no data from
+anyone, including children under the age of 13, and contains no ads, no links
+out of the app, and no social features.
+
+REGULATORY NOTES
+The app is designed so that no directly identifying personal information
+(name, email, IP address, advertising identifier, account ID) is collected by
+the developer or by any third party the developer uses. The app contains no
+third-party SDKs. Its privacy manifest declares no tracking, no tracking
+domains and no collected data types; the only required-reason API it uses is
+on-device storage of its own settings (UserDefaults, reason CA92.1). In App
+Store terms, the app's privacy label is "Data Not Collected".
+
+CHANGES
+If this policy changes, the new version will be published at the same address
+with a new date at the top.
+
+CONTACT
+Questions or concerns: info@porconova.com
