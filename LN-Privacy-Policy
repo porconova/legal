@@ -1,0 +1,169 @@
+Lenscript — Privacy Policy
+Last updated: November 9, 2026
+
+The short version: Lenscript does not collect, transmit, or sell any of your data.
+Your scripts stay on your device and — only if you turn it on — in your own
+private iCloud. Takes you record stay on your device, inside the app, and go to
+your Photos library only if you ask. Nothing is ever sent to the developer.
+
+DEVELOPER
+Lenscript is developed by Dzianis Milasheuski, an individual developer based in
+Lithuania. Questions about this policy: info@porconova.com
+
+WHAT I COLLECT
+Nothing. Lenscript has no analytics, no advertising, no accounts, and no servers
+that receive your data. There is no sign-up and no login. There are no
+third-party SDKs and no trackers in the app. The app makes no network requests of
+its own. I do not know who you are, what you read, or what you record.
+
+The one exception is not mine to control and never contains your content: if you
+have chosen in iOS Settings to share analytics and crash reports with app
+developers, Apple may show me aggregated, anonymised statistics — how often the
+app crashed, on which iOS versions. This comes from Apple, in aggregate, and
+cannot be traced back to you or to anything you have written or recorded. You can
+turn it off in Settings › Privacy & Security › Analytics & Improvements.
+
+WHAT THE APP HOLDS
+- Your scripts: the titles and text you type or paste, and where you stopped
+  reading. They are kept in a local database inside the app's private container
+  on your device. The app also adds two built-in example scripts that explain
+  how it works; you can edit or delete them.
+- Your takes: the recordings you choose to keep, with a short description of
+  each (date, length, which script, how far you read). See "Recording" below.
+- Your settings: text size, speed, countdown, mirror, text backdrop, which
+  camera and microphone to record with, and similar preferences. The answers you
+  give to the short questions when you first open the app are used only to set
+  these defaults. All of it is kept on your device and is not synced.
+None of it is indexed, counted, analysed, or shared.
+
+The clipboard is read only when you tap the system Paste button: iOS hands the
+text to the app at that moment. Before that, the app only checks whether the
+clipboard holds any text at all, so that it can show the button as available; it
+does not see what the text is.
+
+IMPORTING SCRIPTS
+You can bring in a script from a file you pick in the Files picker (PDF, Word,
+RTF or plain text) or from the Share menu of another app. The text is read on
+your device; the file is not uploaded anywhere, and the app keeps only the text,
+as a new script. Only the file or text you choose is read, and only at that
+moment. Text shared from another app is placed in a folder on your device that
+only Lenscript and its Share extension can open, and becomes a script the next
+time you open the app. Without Pro it waits on the Home screen until you get Pro
+or remove it; a removed item is deleted. To tell you which of the two will
+happen, the Share extension can see one thing besides the text you share:
+whether Pro is active, a yes/no flag kept in that same on-device folder.
+
+RECORDING VIDEO
+Lenscript can record you while the words scroll — video with sound, video only,
+or sound only — with your device's own camera and microphone, or with an
+external camera or microphone you connect. Recording is optional and happens
+only when you press the record button.
+- While a take is being recorded and reviewed, the video is kept as a temporary
+  file inside the app's private container.
+- If you choose "Keep", the take is moved into the app's private container on
+  your device and listed under its script. If you choose "Retake", close the
+  take without keeping it, or leave the app, the temporary file is deleted.
+  Leftover files are also deleted the next time the app starts.
+- Kept takes are excluded from your device backup and are deleted when you
+  delete the take, its script, or the app.
+- A copy goes to your own Photos library only when you tap "To Photos" on a take,
+  or if you turn on "Also save to Photos" in Settings. You can also share a take
+  yourself with the system share sheet.
+- Lenscript never uploads a video anywhere except, if you turn on "Sync takes",
+  to your own iCloud (see below). What happens to a copy in your Photos
+  library, or one you shared — including whether your Photos are synced to
+  iCloud — is governed by your Photos and iCloud settings, not by this app.
+
+PRIVATE iCLOUD SYNC (OPTIONAL, OFF BY DEFAULT, PART OF PRO)
+If you turn on iCloud sync in Settings, Lenscript stores a copy of your scripts,
+and a short description of each take (date, length, which script), in the
+PRIVATE database of your own iCloud account, so your other devices signed in to
+the same Apple Account show the same scripts. Settings are not synced.
+Take files (video and sound) are synced only if you also turn on "Sync takes".
+They are then stored in Lenscript's private folder in your own iCloud Drive and
+count toward your iCloud storage. Turning it off keeps takes already in iCloud
+there; new takes stay on the device.
+- The data goes only to your iCloud. It does not pass through any server of mine,
+  and I have no access to it.
+- Apple stores it under your Apple Account, governed by Apple's privacy policy.
+- Turning sync off stops the copying; your scripts stay on the device.
+Sync also uses Apple's silent push notifications to learn that another device has
+changed something. These carry no content of yours; they only wake the app.
+
+PERMISSIONS THE APP MAY ASK FOR
+- Camera — only in recording mode with video, to show you in the frame and record
+  a take when you press record.
+- Microphone — only in recording mode with sound. The free version records with
+  the built-in microphone; with Pro you can pick another one (wired, USB or
+  Bluetooth). The choice is kept on your device.
+- Photos (add only) — only when you ask to add a take to your library.
+  Lenscript asks for "add only" access: it cannot see, read, or change anything
+  already in your Photos library.
+- Notifications — only to remind you, one day before a free trial ends, that it is
+  about to end. The reminder is scheduled and delivered locally by your device.
+  Lenscript has no way to send you anything else, and no server that could.
+You can use the prompter to read without granting any of these.
+
+WHAT LEAVES YOUR DEVICE
+Only what you explicitly send yourself:
+- takes you choose to add to your own Photos library or share;
+- your scripts and take descriptions, to your own iCloud, if you turn sync on;
+- take files, to your own iCloud Drive, if you also turn on "Sync takes";
+- an email you choose to write to support. The draft includes one line with the
+  app version, device model, iOS version, whether Pro is active, and a random
+  reference number that identifies nothing about you. You can delete that line
+  before sending.
+Nothing is uploaded automatically, and nothing is ever sent to me.
+
+IF THE APP CANNOT OPEN ITS DATA
+If the file that holds your scripts is ever damaged, Lenscript keeps the damaged
+file on your device, next to a new empty one, so that it can be recovered. It is
+not sent anywhere. If you write to support about it, I will explain how you can
+share it with me yourself — only if you choose to.
+
+PURCHASES
+Lenscript Pro is sold through Apple's In-App Purchase. Apple, not the developer,
+processes payment. I receive no personal or payment information. You can manage
+or cancel a subscription in Settings › [Your Name] › Subscriptions on your
+device.
+
+YOUR RIGHTS
+Because the app collects no personal information on the developer's side, there
+is no developer-held data for you to access, correct, export, or delete.
+- Any script can be deleted inside the app.
+- Any take can be deleted inside the app. Copies you added to Photos are deleted
+  there.
+- Scripts and takes in your iCloud can be removed by deleting them in the app
+  while sync is on, by signing out of iCloud, or from your iCloud storage in
+  iOS Settings.
+- Deleting the app removes the on-device copy.
+- An active subscription can be cancelled in your Apple Account subscriptions.
+
+INFORMATION ABOUT OTHER PEOPLE
+If other people appear or can be heard in a video you record, that video is kept
+only on your device and wherever you choose to put it. It is never transmitted to
+the developer or to any third party. You are responsible for recording other
+people only where you are allowed to.
+
+CHILDREN
+Lenscript is not directed at children under the age of 13 and does not knowingly
+collect any data from children.
+
+REGULATORY NOTES
+The app is designed so that no directly identifying personal information (name,
+email, IP address, advertising identifier, account ID) is collected by the
+developer or by any third party the developer uses. There are no third-party
+SDKs, no trackers, and no data brokers. Where Apple acts as a processor for
+purchases and for iCloud, those activities are governed by Apple's own privacy
+policy. Because no personal data is collected or processed by the developer,
+there is no data controller obligation to transfer data internationally, and no
+data retention period to declare on the developer's side. What you write and
+record is created, stored and erased entirely by you; the developer is neither
+its controller nor its processor and cannot reach it.
+
+CHANGES TO THIS POLICY
+If this policy changes, the updated version will be published at this address
+with a new date at the top.
+
+CONTACT
+Questions or concerns: info@porconova.com
