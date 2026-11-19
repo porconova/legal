@@ -1,6 +1,6 @@
 Skin Creator 3D — Terms of Service
 
-Last updated: November 10, 2026
+Last updated: November 19, 2026
 
 These Terms of Service ("Terms") govern your use of the Skin Creator 3D iPhone and iPad application (the "App"), provided by Dzianis Milasheuski, an individual developer based in Lithuania ("we", "us"). By downloading, installing, or using the App you agree to these Terms.
 
@@ -12,9 +12,9 @@ We grant you a personal, non-exclusive, non-transferable, revocable license to u
 
 2. Free Features, Subscriptions, and One-Time Purchases
 
-Skin Creator 3D is free to download and includes a core set of features, including one character, the basic painting tools, a set of free outfits, and PNG export. Additional features and content are available through optional purchases:
+Skin Creator 3D is free to download and includes a core set of features, including one character, the basic painting tools, a set of free outfits, and PNG export. Pictures, GIFs, and videos you export from the Pose screen carry a small "Skin Creator" mark; turning the mark off is a Pro feature. Additional features and content are available through optional purchases:
 
-•  Skin Creator Pro+ (auto-renewing subscription, monthly or yearly) unlocks all Pro features and all current and future outfit packs while the subscription is active.
+•  Skin Creator Pro (auto-renewing subscription, monthly or yearly) unlocks all Pro features and all current and future outfit packs while the subscription is active.
 •  Pro Forever (one-time purchase) unlocks all Pro features for as long as the App is offered on the App Store and is associated with your Apple Account. It does not include outfit packs.
 •  Outfit packs (one-time purchases) add a set of outfits that stay available to you permanently.
 
@@ -22,8 +22,8 @@ The features included in each option are described on the purchase screen in the
 
 •  Trial. The yearly subscription may include an introductory free trial, the duration and conditions of which are shown on the purchase screen and on the App Store product page. Free trials are available only to Apple Accounts that have not used one before.
 •  Billing. Payment is charged to your Apple Account when you confirm the purchase (or when the free trial ends). Subscriptions renew automatically at the end of each billing period at the then-current price unless cancelled at least 24 hours before the end of the current period.
-•  Managing or cancelling a subscription. You can manage or cancel an active subscription at any time in Settings → [Your Name] → Subscriptions on your device. Cancellation takes effect at the end of the current billing period; you keep access to Pro+ until that date.
-•  After a subscription ends. Your characters, looks, and skins are never deleted. One character stays editable with the free features; your other characters and Pro features become available again when Pro+ or Pro Forever is active. Outfits already applied to your skins stay in them; applying pack outfits again requires the subscription or the purchased pack.
+•  Managing or cancelling a subscription. You can manage or cancel an active subscription at any time in Settings → [Your Name] → Subscriptions on your device. Cancellation takes effect at the end of the current billing period; you keep access to Pro until that date.
+•  After a subscription ends. Your characters, looks, and skins are never deleted. One character stays editable with the free features; your other characters and Pro features become available again when Pro or Pro Forever is active. Outfits already applied to your skins stay in them; applying pack outfits again requires the subscription or the purchased pack.
 •  Restoring purchases. Previous purchases can be restored on a new device by signing in with the same Apple Account and using the Restore Purchases button in the App.
 •  Refunds. All payments are processed by Apple. Refund requests are handled by Apple under its policies; you can request a refund at reportaproblem.apple.com.
 •  Price changes. Subscription prices may change. If a price increase requires your consent under Apple's rules, your subscription will not renew at the new price until you agree.
@@ -33,7 +33,7 @@ The features included in each option are described on the purchase screen in the
 
 Skins, characters, looks, and other content you create in the App ("Your Content") belong to you. We do not claim ownership of, and have no access to, Your Content kept on your device or in your personal iCloud account.
 
-You are responsible for the content you import, create, and share. When you import or remix a skin made by someone else (for example, in Mix & Match, including a Java player's public skin looked up by name), make sure you have the right to use it, and respect the creator's wishes when sharing the result.
+You are responsible for the content you import, create, and share. When you import or remix a skin made by someone else (for example, in Mix & Match or New → By Java nickname, including a Java player's public skin looked up by name, or a skin from a .mcpack pack), make sure you have the right to use it, and respect the creator's wishes when sharing the result.
 
 
 4. Outfits and Other Content Provided in the App
@@ -63,7 +63,7 @@ The App itself, including its name, brand, design, source code, icons, outfits, 
 
 8. Third-Party Services
 
-The App relies on first-party Apple frameworks for purchases (StoreKit), optional syncing (iCloud Drive), importing pictures (Photos picker and Files), and sharing (the iOS share sheet). Use of these features is also subject to Apple's terms. The optional Java player skin lookup in Mix & Match uses Mojang's public services; its availability and results depend on Mojang, and its use is subject to Mojang's and Microsoft's terms. The App does not embed analytics, advertising, or social-network SDKs and does not perform tracking.
+The App relies on first-party Apple frameworks for purchases (StoreKit), optional syncing (iCloud Drive), importing pictures (Photos picker and Files), and sharing (the iOS share sheet). Use of these features is also subject to Apple's terms. The optional Java player skin lookup (in Mix & Match and in New → By Java nickname) uses Mojang's public services; its availability and results depend on Mojang, and its use is subject to Mojang's and Microsoft's terms. The App does not embed analytics, advertising, or social-network SDKs and does not perform tracking.
 
 
 9. Privacy
