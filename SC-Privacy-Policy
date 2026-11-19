@@ -1,6 +1,6 @@
 Skin Creator 3D — Privacy Policy
 
-Last updated: November 10, 2026
+Last updated: November 19, 2026
 
 Thank you for using Skin Creator 3D (the "App"), a skin and character editor for iPhone and iPad. Your privacy is important. This Privacy Policy explains, in plain language, what data the App handles and what it does not.
 
@@ -33,7 +33,7 @@ The following information is created by you and stored locally inside the App. I
 •  Version history snapshots of your characters and the "Recently deleted" list, which is cleared automatically after 30 days.
 •  App preferences (for example, which tips you have already seen).
 
-Reference pictures you add while painting are kept only while the character is open and are not saved.
+Reference pictures you add while painting are not saved. A reference picture is kept only in the device's memory while the App is running, and it is gone once the App is closed. It is not written to the character, not synced to iCloud, and not included in a character file (.skincreator).
 
 
 iCloud Drive (optional)
@@ -49,17 +49,19 @@ Photos and Files
 
 Sharing and Exports
 
-When you export or send something — a skin PNG, a picture or GIF of a pose, a Minecraft skin pack (.mcpack), or a character file (.skincreator) — the file is created on your device and goes only where you choose to send it (for example Minecraft, Files, AirDrop, or Messages). The developer does not receive a copy. A .skincreator character file contains the character's skins, looks, and name; share it only with people you want to have them.
+When you export or send something — a skin PNG, a picture, GIF, or video of a pose, a Minecraft skin pack (.mcpack), or a character file (.skincreator) — the file is created on your device and goes only where you choose to send it (for example Minecraft, Files, AirDrop, or Messages). The developer does not receive a copy. A .skincreator character file contains the character's skins, looks, and name; share it only with people you want to have them.
+
+Pictures, GIFs, and videos of a pose carry a small "Skin Creator" mark with a QR code and the address skin.porconova.com, which lead to the App's page on the App Store. The mark is the same for everyone and contains no information about you or your device. People with Skin Creator Pro or Pro Forever can turn the mark off.
 
 
 Java Player Skin Lookup (optional)
 
-In Mix & Match you can take parts from the public skin of a Minecraft: Java Edition player by typing that player's name and tapping "Find". Only then, the App sends the name you typed to Mojang's public services (api.mojang.com and sessionserver.mojang.com), which return the player's ID and skin address, and then downloads the skin picture from textures.minecraft.net. As with any internet request, Mojang's servers also see your IP address. These services are operated by Mojang / Microsoft under their own privacy policy (https://privacy.microsoft.com). The request is made without cookies or a stored cache, the name is not saved by the App, and nothing is sent to the developer. If you never use this lookup, the App makes no such request.
+You can use the public skin of a Minecraft: Java Edition player in two places: in Wardrobe → Take parts (Mix & Match), to take parts from it, and in New → By Java nickname on the start screen, to start a new character from it. In both, you type that player's name and tap "Find". Only then, the App sends the name you typed to Mojang's public services (api.mojang.com and sessionserver.mojang.com), which return the player's ID and skin address, and then downloads the skin picture from textures.minecraft.net. As with any internet request, Mojang's servers also see your IP address. These services are operated by Mojang / Microsoft under their own privacy policy (https://privacy.microsoft.com). The request is made without cookies or a stored cache, the name is not saved by the App, and nothing is sent to the developer. If you never use this lookup, the App makes no such request.
 
 
 Purchases (Apple App Store)
 
-Skin Creator 3D offers optional purchases through Apple's In-App Purchase system: the Skin Creator Pro+ subscription (monthly or yearly), a one-time Pro Forever purchase, and outfit packs. All payments are processed by Apple. The developer never receives your name, payment method, billing address, or any other financial information. Apple's StoreKit framework only tells the App which purchases are active on your Apple Account, so the App can unlock the matching features.
+Skin Creator 3D offers optional purchases through Apple's In-App Purchase system: the Skin Creator Pro subscription (monthly or yearly), a one-time Pro Forever purchase, and outfit packs. All payments are processed by Apple. The developer never receives your name, payment method, billing address, or any other financial information. Apple's StoreKit framework only tells the App which purchases are active on your Apple Account, so the App can unlock the matching features.
 
 You can manage or cancel an active subscription in Settings → [Your Name] → Subscriptions on your device.
 
