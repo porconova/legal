@@ -1,5 +1,5 @@
 Lenscript — Privacy Policy
-Last updated: November 9, 2026
+Last updated: November 24, 2026
 
 The short version: Lenscript does not collect, transmit, or sell any of your data.
 Your scripts stay on your device and — only if you turn it on — in your own
@@ -64,8 +64,11 @@ only when you press the record button.
   your device and listed under its script. If you choose "Retake", close the
   take without keeping it, or leave the app, the temporary file is deleted.
   Leftover files are also deleted the next time the app starts.
-- Kept takes are excluded from your device backup and are deleted when you
-  delete the take, its script, or the app.
+- Kept takes are included in your device backup (iCloud Backup or your
+  computer), like other app data, and are deleted when you delete the take, its
+  script, or the app. If you delete a take or a script on another device while
+  "Sync takes" is off, its video file on this device is kept aside for 30 days,
+  so it can be restored if the deletion was a sync mistake, and then removed.
 - A copy goes to your own Photos library only when you tap "To Photos" on a take,
   or if you turn on "Also save to Photos" in Settings. You can also share a take
   yourself with the system share sheet.
@@ -99,10 +102,8 @@ PERMISSIONS THE APP MAY ASK FOR
 - Photos (add only) — only when you ask to add a take to your library.
   Lenscript asks for "add only" access: it cannot see, read, or change anything
   already in your Photos library.
-- Notifications — only to remind you, one day before a free trial ends, that it is
-  about to end. The reminder is scheduled and delivered locally by your device.
-  Lenscript has no way to send you anything else, and no server that could.
-You can use the prompter to read without granting any of these.
+You can use the prompter to read without granting any of these. Lenscript does
+not ask to send you notifications, and has no server that could send you anything.
 
 WHAT LEAVES YOUR DEVICE
 Only what you explicitly send yourself:
@@ -110,9 +111,9 @@ Only what you explicitly send yourself:
 - your scripts and take descriptions, to your own iCloud, if you turn sync on;
 - take files, to your own iCloud Drive, if you also turn on "Sync takes";
 - an email you choose to write to support. The draft includes one line with the
-  app version, device model, iOS version, whether Pro is active, and a random
-  reference number that identifies nothing about you. You can delete that line
-  before sending.
+  app version, device model, iOS version, whether Pro is active, the app's
+  language and region, the text size you use, and a random reference number
+  that identifies nothing about you. You can delete that line before sending.
 Nothing is uploaded automatically, and nothing is ever sent to me.
 
 IF THE APP CANNOT OPEN ITS DATA
